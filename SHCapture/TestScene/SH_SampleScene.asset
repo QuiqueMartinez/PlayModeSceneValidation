@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 367ed0f45be2f204498b193d3c07def5, type: 3}
+  m_Name: SH_SampleScene
+  m_EditorClassIdentifier: 
+  data:
+    'sh[ 0]': 8745.891
+    'sh[ 1]': -280.27402
+    'sh[ 2]': 200.17896
+    'sh[ 3]': -160.95996
+    'sh[ 4]': 252.32942
+    'sh[ 5]': -31.630802
+    'sh[ 6]': 155.19179
+    'sh[ 7]': -48.73455
+    'sh[ 8]': 352.22208
+    'sh[ 9]': 10104.417
+    'sh[10]': 45.59838
+    'sh[11]': 191.43094
+    'sh[12]': -207.94135
+    'sh[13]': 278.05545
+    'sh[14]': -35.906334
+    'sh[15]': 178.87857
+    'sh[16]': -63.78751
+    'sh[17]': 390.7881
+    'sh[18]': 12183.659
+    'sh[19]': 480.7613
+    'sh[20]': 183.91481
+    'sh[21]': -245.6204
+    'sh[22]': 315.85565
+    'sh[23]': -46.935684
+    'sh[24]': 182.25568
+    'sh[25]': -81.36981
+    'sh[26]': 386.36737
