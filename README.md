@@ -35,38 +35,6 @@ Spherical Harmonics are solutions to **Laplace’s equation** on the sphere and 
    - Compare it against the stored reference.
    - Write a `.csv` report with all deltas.
 
-## ✅ Example Use Cases
-
-- Visual regression testing in training simulators, digital twins, and industrial VR/AR apps.
-- Ensuring consistency in synthetic data generation pipelines.
-- Comparing builds between platforms (e.g., PC ↔ Quest) where rendering may differ subtly.
-
-## 📁 Output
-
-The tool generates a `.csv` like this:
-
-```
-Channel,Degree,CoeffIndex,A,B,Delta
-R,1,L1,0.1234,0.1249,0.0015
-...
-```
-
-And logs the global RMSE and per-coefficient errors.
-
-## 📦 Folder Structure
-
-```
-/Editor
-  SHCaptureComponentEditor.cs
-/Scripts
-  SHCaptureUtility.cs
-  SHProbeAsset.cs
-  SHComparer.cs
-  SHCaptureComponent.cs
-/Tests
-  SHValidationTests.cs
-```
-
 ## 📜 License
 
 MIT License — use freely in production, research, or education.
